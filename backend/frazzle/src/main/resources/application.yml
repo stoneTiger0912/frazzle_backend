@@ -36,6 +36,7 @@ springdoc:
   swagger-ui:
     path: /swagger-ui.html
 
+
 server:
   servlet:
     context-path: /api/v1
